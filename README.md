@@ -71,14 +71,25 @@ ________________________________________
 
 <img width="228" height="54" alt="image" src="https://github.com/user-attachments/assets/306742ac-ced4-4f65-8cc1-1c9f2d2f48c7" />
 
-跟实验数据（来自教科书）验算对照<br>
-Pb-208（最后完全稳定重核）实验核半径（电荷半径换算）：
+## 跟实验数据（来自教科书）验算对照<br>
+
+——Pb-208（最后完全稳定重核）实验核半径（电荷半径换算）：
 
 <img width="243" height="51" alt="image" src="https://github.com/user-attachments/assets/c79b0b6c-1b84-4ee8-a473-abe91712aba7" />
 
 计算得到：
 
 <img width="368" height="175" alt="image" src="https://github.com/user-attachments/assets/67c15814-62c3-43fe-91b2-86c3ecd20710" />
+
+——U-238（最长寿命天然超重核）实验核半径：
+
+<img width="230" height="52" alt="image" src="https://github.com/user-attachments/assets/456fc4ca-8bf4-41a7-828a-503e3b496a09" />
+
+计算得到：
+
+<img width="367" height="159" alt="image" src="https://github.com/user-attachments/assets/4afec260-f54c-4c2f-8565-15a3040cda57" />
+
+
 
 
 
